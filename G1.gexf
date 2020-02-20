@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>29/11/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="['jason.wolfe@enron.com']" label="['jason.wolfe@enron.com']" />
+      <node id="['tmartin@enron.com']" label="['tmartin@enron.com']" />
+      <node id="['brapp@enron.com']" label="['brapp@enron.com']" />
+      <node id="['fran.fagan@enron.com']" label="['fran.fagan@enron.com']" />
+      <node id="['info@rmmlf.org']" label="['info@rmmlf.org']" />
+      <node id="['lisa.fawcett@enron.com']" label="['lisa.fawcett@enron.com']" />
+      <node id="['info@1800contacts.com']" label="['info@1800contacts.com']" />
+      <node id="['monique.sanchez@enron.com']" label="['monique.sanchez@enron.com']" />
+      <node id="['deals@bestfares.com']" label="['deals@bestfares.com']" />
+      <node id="['mark.whitt@enron.com']" label="['mark.whitt@enron.com']" />
+      <node id="['shankman@enron.com']" label="['shankman@enron.com']" />
+      <node id="['chuck.ames@enron.com']" label="['chuck.ames@enron.com']" />
+      <node id="['enl-members-html@estutenws11.energy.williams.com']" label="['enl-members-html@estutenws11.energy.williams.com']" />
+      <node id="['bob.shults@enron.com']" label="['bob.shults@enron.com']" />
+      <node id="['rika.imai@enron.com']" label="['rika.imai@enron.com']" />
+      <node id="['justin.arcadipane@cendantmobility.com']" label="['justin.arcadipane@cendantmobility.com']" />
+      <node id="['weekly_research@frstrelay001.forrester.com']" label="['weekly_research@frstrelay001.forrester.com']" />
+      <node id="['lisa@casa-de-clarke.com']" label="['lisa@casa-de-clarke.com']" />
+      <node id="['craig.breslau@enron.com']" label="['craig.breslau@enron.com']" />
+      <node id="['d..hare@enron.com']" label="['d..hare@enron.com']" />
+      <node id="['bagray@calpx.com']" label="['bagray@calpx.com']" />
+      <node id="['market_relations@nyiso.com']" label="['market_relations@nyiso.com']" />
+      <node id="['l..kelly@enron.com']" label="['l..kelly@enron.com']" />
+      <node id="['w..white@enron.com']" label="['w..white@enron.com']" />
+      <node id="['adrianne.engler@enron.com']" label="['adrianne.engler@enron.com']" />
+      <node id="['cshaw@siebel.com']" label="['cshaw@siebel.com']" />
+      <node id="['steve.wang@enron.com']" label="['steve.wang@enron.com']" />
+      <node id="['ryan.slinger@enron.com']" label="['ryan.slinger@enron.com']" />
+      <node id="['chris.dorland@enron.com']" label="['chris.dorland@enron.com']" />
+      <node id="['h..lewis@enron.com']" label="['h..lewis@enron.com']" />
+      <node id="['jhawker@petersco.com']" label="['jhawker@petersco.com']" />
+      <node id="['fraisy.george@enron.com']" label="['fraisy.george@enron.com']" />
+      <node id="['mary.fischer@enron.com']" label="['mary.fischer@enron.com']" />
+      <node id="['vze28szx@verizon.net']" label="['vze28szx@verizon.net']" />
+      <node id="['travel@support.expedia.com']" label="['travel@support.expedia.com']" />
+      <node id="['greg.martin@enron.com']" label="['greg.martin@enron.com']" />
+      <node id="['k..allen@enron.com']" label="['k..allen@enron.com']" />
+      <node id="['kholst@ect.enron.com']" label="['kholst@ect.enron.com']" />
+      <node id="['contact@v-workshops.com']" label="['contact@v-workshops.com']" />
+      <node id="['danny.foster@enron.com']" label="['danny.foster@enron.com']" />
+      <node id="['avorato@enron.com']" label="['avorato@enron.com']" />
+      <node id="['f..herod@enron.com']" label="['f..herod@enron.com']" />
+      <node id="['hai.chen@enron.com']" label="['hai.chen@enron.com']" />
+      <node id="['caroline.abramo@enron.com']" label="['caroline.abramo@enron.com']" />
+      <node id="['bradley.holmes@enron.com']" label="['bradley.holmes@enron.com']" />
+      <node id="['john.lavorato@enron.com']" label="['john.lavorato@enron.com']" />
+      <node id="['david.delainey@enron.com']" label="['david.delainey@enron.com']" />
+      <node id="['d..winfree@enron.com']" label="['d..winfree@enron.com']" />
+      <node id="['karima.husain@enron.com']" label="['karima.husain@enron.com']" />
+      <node id="['mark.schrab@enron.com']" label="['mark.schrab@enron.com']" />
+      <node id="['enron_update@concureworkplace.com']" label="['enron_update@concureworkplace.com']" />
+      <node id="['pkeavey@ect.enron.com']" label="['pkeavey@ect.enron.com']" />
+      <node id="['david.baumbach@enron.com']" label="['david.baumbach@enron.com']" />
+      <node id="['tori.kuykendall@enron.com']" label="['tori.kuykendall@enron.com']" />
+      <node id="['lindy.donoho@enron.com']" label="['lindy.donoho@enron.com']" />
+      <node id="['nyiso_tech_exchange@global2000.net']" label="['nyiso_tech_exchange@global2000.net']" />
+      <node id="['barry.tycholiz@enron.com']" label="['barry.tycholiz@enron.com']" />
+      <node id="['waterbugz6@aol.com']" label="['waterbugz6@aol.com']" />
+      <node id="['anthony.carroll@americas.bnpparibas.com']" label="['anthony.carroll@americas.bnpparibas.com']" />
+      <node id="['sara.shackleton@enron.com']" label="['sara.shackleton@enron.com']" />
+      <node id="['chad.gardner@enron.com']" label="['chad.gardner@enron.com']" />
+      <node id="['management.ubsw@enron.com']" label="['management.ubsw@enron.com']" />
+      <node id="['eric.bass@enron.com']" label="['eric.bass@enron.com']" />
+      <node id="['yan.wang@enron.com']" label="['yan.wang@enron.com']" />
+      <node id="['general.announcement@enron.com']" label="['general.announcement@enron.com']" />
+      <node id="['jerrybowyer@home.com']" label="['jerrybowyer@home.com']" />
+      <node id="['tom.hahn@apbenergy.com']" label="['tom.hahn@apbenergy.com']" />
+      <node id="['rick.sierra@enron.com']" label="['rick.sierra@enron.com']" />
+      <node id="['morris.brassfield@enron.com']" label="['morris.brassfield@enron.com']" />
+      <node id="['james.hungerford@enron.com']" label="['james.hungerford@enron.com']" />
+      <node id="['faretrckr@customermail.expedia.com']" label="['faretrckr@customermail.expedia.com']" />
+      <node id="['jim.fallon@enron.com']" label="['jim.fallon@enron.com']" />
+      <node id="['continental_airlines_inc@coair.rsc01.com']" label="['continental_airlines_inc@coair.rsc01.com']" />
+      <node id="['artistinsider@info.artistdirect.com']" label="['artistinsider@info.artistdirect.com']" />
+      <node id="['paul.baratelli@nerc.net']" label="['paul.baratelli@nerc.net']" />
+      <node id="['w..pereira@enron.com']" label="['w..pereira@enron.com']" />
+      <node id="['chrisrtowest@earthlink.net']" label="['chrisrtowest@earthlink.net']" />
+      <node id="['inbox@messaging.accuweather.com']" label="['inbox@messaging.accuweather.com']" />
+      <node id="['mark.haedicke@enron.com']" label="['mark.haedicke@enron.com']" />
+      <node id="['debra.perlingiere@enron.com']" label="['debra.perlingiere@enron.com']" />
+      <node id="['n12377@extra.hu']" label="['n12377@extra.hu']" />
+      <node id="['amtxj@126.com']" label="['amtxj@126.com']" />
+      <node id="['lkitchen@enron.com']" label="['lkitchen@enron.com']" />
+      <node id="['matthew.lenhart@enron.com']" label="['matthew.lenhart@enron.com']" />
+      <node id="['r..price@enron.com']" label="['r..price@enron.com']" />
+      <node id="['cheryl.johnson@enron.com']" label="['cheryl.johnson@enron.com']" />
+      <node id="['kpresto@enron.com']" label="['kpresto@enron.com']" />
+      <node id="['arsystem@mailman.enron.com']" label="['arsystem@mailman.enron.com']" />
+      <node id="['liz.taylor@enron.com']" label="['liz.taylor@enron.com']" />
+      <node id="['jarnold@enron.com']" label="['jarnold@enron.com']" />
+      <node id="['tie_list_server@nyiso.com']" label="['tie_list_server@nyiso.com']" />
+      <node id="['darren.adamik@enron.com']" label="['darren.adamik@enron.com']" />
+      <node id="['phil.lowry@enron.com']" label="['phil.lowry@enron.com']" />
+      <node id="['a..shankman@enron.com']" label="['a..shankman@enron.com']" />
+      <node id="['showtimes@amazon.com']" label="['showtimes@amazon.com']" />
+      <node id="['karen.buckley@enron.com']" label="['karen.buckley@enron.com']" />
+      <node id="['dudley.poston@williams.com']" label="['dudley.poston@williams.com']" />
+      <node id="['l..gay@enron.com']" label="['l..gay@enron.com']" />
+      <node id="['meetings@nyiso.com']" label="['meetings@nyiso.com']" />
+      <node id="['robyn.zivic@enron.com']" label="['robyn.zivic@enron.com']" />
+      <node id="['srbateson@duke-energy.com']" label="['srbateson@duke-energy.com']" />
+      <node id="['issuealerthtml@listserv.scientech.com']" label="['issuealerthtml@listserv.scientech.com']" />
+      <node id="['clients@cera.com']" label="['clients@cera.com']" />
+      <node id="['richard.shapiro@enron.com']" label="['richard.shapiro@enron.com']" />
+      <node id="['originators.dl-netco@enron.com']" label="['originators.dl-netco@enron.com']" />
+      <node id="['elizabeth.sager@enron.com']" label="['elizabeth.sager@enron.com']" />
+      <node id="['a.k..matheson@enron.com']" label="['a.k..matheson@enron.com']" />
+      <node id="['noreply@ccomad3.uu.commissioner.com']" label="['noreply@ccomad3.uu.commissioner.com']" />
+      <node id="['scott.aleka@enron.com']" label="['scott.aleka@enron.com']" />
+      <node id="['janell.avery@enron.com']" label="['janell.avery@enron.com']" />
+      <node id="['sheila.jarnot@enron.com']" label="['sheila.jarnot@enron.com']" />
+      <node id="['m..love@enron.com']" label="['m..love@enron.com']" />
+      <node id="['b..sanders@enron.com']" label="['b..sanders@enron.com']" />
+      <node id="['jeffrey.mcmahon@enron.com']" label="['jeffrey.mcmahon@enron.com']" />
+      <node id="['issuealert@scientech.com']" label="['issuealert@scientech.com']" />
+      <node id="['outlook.team@enron.com']" label="['outlook.team@enron.com']" />
+      <node id="['andrew.lewis@enron.com']" label="['andrew.lewis@enron.com']" />
+      <node id="['al@friedwire.com']" label="['al@friedwire.com']" />
+      <node id="['ron.matthews@enron.com']" label="['ron.matthews@enron.com']" />
+      <node id="['sneal4@houston.rr.com']" label="['sneal4@houston.rr.com']" />
+      <node id="['holden.salisbury@enron.com']" label="['holden.salisbury@enron.com']" />
+      <node id="['perfmgmt@enron.com']" label="['perfmgmt@enron.com']" />
+      <node id="['thane.twiggs@enron.com']" label="['thane.twiggs@enron.com']" />
+      <node id="['don.baughman@enron.com']" label="['don.baughman@enron.com']" />
+      <node id="['jean.mcfarland@enron.com']" label="['jean.mcfarland@enron.com']" />
+      <node id="['rrga-l@list.rtowest.org']" label="['rrga-l@list.rtowest.org']" />
+      <node id="['mwhitt@enron.com']" label="['mwhitt@enron.com']" />
+      <node id="['stanley.horton@enron.com']" label="['stanley.horton@enron.com']" />
+      <node id="['alhamd.alkhayat@enron.com']" label="['alhamd.alkhayat@enron.com']" />
+      <node id="['applicationservice@bdcimail.com']" label="['applicationservice@bdcimail.com']" />
+      <node id="['steven.harris@enron.com']" label="['steven.harris@enron.com']" />
+      <node id="['dean.drozdiak@enron.com']" label="['dean.drozdiak@enron.com']" />
+      <node id="['john.postlethwaite@enron.com']" label="['john.postlethwaite@enron.com']" />
+      <node id="['dan.leff@enron.com']" label="['dan.leff@enron.com']" />
+      <node id="['fermis@ect.enron.com']" label="['fermis@ect.enron.com']" />
+      <node id="['tracey.tripp@enron.com']" label="['tracey.tripp@enron.com']" />
+      <node id="['s.day.-return-11-5-11775115-c0mgrdylu6uc1jlt-322@mta11.optamail.com']" label="['s.day.-return-11-5-11775115-c0mgrdylu6uc1jlt-322@mta11.optamail.com']" />
+      <node id="['info@pmaconference.com']" label="['info@pmaconference.com']" />
+      <node id="['susan.amador@enron.com']" label="['susan.amador@enron.com']" />
+      <node id="['jschwie@enron.com']" label="['jschwie@enron.com']" />
+      <node id="['mark.confer@enron.com']" label="['mark.confer@enron.com']" />
+      <node id="['rbowers@nyiso.com']" label="['rbowers@nyiso.com']" />
+      <node id="['esaibi@enron.com']" label="['esaibi@enron.com']" />
+      <node id="['w..mcgowan@enron.com']" label="['w..mcgowan@enron.com']" />
+      <node id="['robert.guthrie@enron.com']" label="['robert.guthrie@enron.com']" />
+      <node id="['joseph.f.reid@accenture.com']" label="['joseph.f.reid@accenture.com']" />
+      <node id="['d..wilson@enron.com']" label="['d..wilson@enron.com']" />
+      <node id="['kimberly.watson@enron.com']" label="['kimberly.watson@enron.com']" />
+      <node id="['busterann@aol.com']" label="['busterann@aol.com']" />
+      <node id="['forney@enron.com']" label="['forney@enron.com']" />
+      <node id="['debra.davidson@enron.com']" label="['debra.davidson@enron.com']" />
+      <node id="['d..steffes@enron.com']" label="['d..steffes@enron.com']" />
+      <node id="['postmaster@your.smtp.com']" label="['postmaster@your.smtp.com']" />
+      <node id="['mjmiller23@hotmail.com']" label="['mjmiller23@hotmail.com']" />
+      <node id="['travel@expedia.com']" label="['travel@expedia.com']" />
+      <node id="['f..calger@enron.com']" label="['f..calger@enron.com']" />
+      <node id="['donna_j_mullen@dom.com']" label="['donna_j_mullen@dom.com']" />
+      <node id="['janette.elbertson@enron.com']" label="['janette.elbertson@enron.com']" />
+      <node id="['d..thomas@enron.com']" label="['d..thomas@enron.com']" />
+      <node id="['philip.polsky@enron.com']" label="['philip.polsky@enron.com']" />
+      <node id="['juan.hernandez@enron.com']" label="['juan.hernandez@enron.com']" />
+      <node id="['carol.st.@enron.com']" label="['carol.st.@enron.com']" />
+      <node id="['james.bruce@enron.com']" label="['james.bruce@enron.com']" />
+      <node id="['forrester@forrester.com']" label="['forrester@forrester.com']" />
+      <node id="['pxnotes@calpx.com']" label="['pxnotes@calpx.com']" />
+      <node id="['kirti.patel@enron.com']" label="['kirti.patel@enron.com']" />
+      <node id="['maolczak@bpa.gov']" label="['maolczak@bpa.gov']" />
+      <node id="['danny.mccarty@enron.com']" label="['danny.mccarty@enron.com']" />
+      <node id="['c..koehler@enron.com']" label="['c..koehler@enron.com']" />
+      <node id="['doug.gilbert-smith@enron.com']" label="['doug.gilbert-smith@enron.com']" />
+      <node id="['mdy@slater-consulting.com']" label="['mdy@slater-consulting.com']" />
+      <node id="['r-8-724539-3371579-2-1232-us2-79556634@xmr3.com']" label="['r-8-724539-3371579-2-1232-us2-79556634@xmr3.com']" />
+      <node id="['word@m-w.com']" label="['word@m-w.com']" />
+      <node id="['pete.davis@enron.com']" label="['pete.davis@enron.com']" />
+      <node id="['casey.evans@enron.com']" label="['casey.evans@enron.com']" />
+      <node id="['vmartinez@winstead.com']" label="['vmartinez@winstead.com']" />
+      <node id="['eveningmba@haas.berkeley.edu']" label="['eveningmba@haas.berkeley.edu']" />
+      <node id="['fm@monthlydrawing.roi1.net']" label="['fm@monthlydrawing.roi1.net']" />
+      <node id="['clayton.seigle@enron.com']" label="['clayton.seigle@enron.com']" />
+      <node id="['lynn.blair@enron.com']" label="['lynn.blair@enron.com']" />
+      <node id="['enron.announcement@enron.com']" label="['enron.announcement@enron.com']" />
+      <node id="['mktstathourahead@caiso.com']" label="['mktstathourahead@caiso.com']" />
+      <node id="['louise.kitchen@enron.com']" label="['louise.kitchen@enron.com']" />
+      <node id="['harry.arora@enron.com']" label="['harry.arora@enron.com']" />
+      <node id="['reply@savvion.info']" label="['reply@savvion.info']" />
+      <node id="['kalen.pieper@enron.com']" label="['kalen.pieper@enron.com']" />
+      <node id="['gouinmd@nu.com']" label="['gouinmd@nu.com']" />
+      <node id="['valerie.vela@enron.com']" label="['valerie.vela@enron.com']" />
+      <node id="['lisa.gang@enron.com']" label="['lisa.gang@enron.com']" />
+      <node id="['ecenter@williams.com']" label="['ecenter@williams.com']" />
+      <node id="['kenneth.lay@enron.com']" label="['kenneth.lay@enron.com']" />
+      <node id="['emca@yahoogroups.com']" label="['emca@yahoogroups.com']" />
+      <node id="['s..bradford@enron.com']" label="['s..bradford@enron.com']" />
+      <node id="['kevin.hyatt@enron.com']" label="['kevin.hyatt@enron.com']" />
+      <node id="['newsletter@rigzone.com']" label="['newsletter@rigzone.com']" />
+      <node id="['robin.barbe@enron.com']" label="['robin.barbe@enron.com']" />
+      <node id="['fcalvillo@cmgn.com.mx']" label="['fcalvillo@cmgn.com.mx']" />
+      <node id="['dana.davis@enron.com']" label="['dana.davis@enron.com']" />
+      <node id="['marie.heard@enron.com']" label="['marie.heard@enron.com']" />
+      <node id="['realbigwinners@media.sarc-media.com']" label="['realbigwinners@media.sarc-media.com']" />
+      <node id="['cecilia.cheung@enron.com']" label="['cecilia.cheung@enron.com']" />
+      <node id="['mw-wod@listserv.webster.m-w.com']" label="['mw-wod@listserv.webster.m-w.com']" />
+      <node id="['pooky@pipeline.com']" label="['pooky@pipeline.com']" />
+      <node id="['katryna.murtagh@morganstanley.com']" label="['katryna.murtagh@morganstanley.com']" />
+      <node id="['lcampbel@enron.com']" label="['lcampbel@enron.com']" />
+      <node id="['charlene.merrill@dvn.com']" label="['charlene.merrill@dvn.com']" />
+      <node id="['mike.swerzbin@enron.com']" label="['mike.swerzbin@enron.com']" />
+      <node id="['christina_122367@hotmail.com']" label="['christina_122367@hotmail.com']" />
+      <node id="['patrick.leahy@enron.com']" label="['patrick.leahy@enron.com']" />
+      <node id="['contact@dew-consulting.com']" label="['contact@dew-consulting.com']" />
+      <node id="['jennifer.thome@enron.com']" label="['jennifer.thome@enron.com']" />
+      <node id="['stacey.richardson@enron.com']" label="['stacey.richardson@enron.com']" />
+      <node id="['monika.causholli@enron.com']" label="['monika.causholli@enron.com']" />
+      <node id="['jeff.skilling@enron.com']" label="['jeff.skilling@enron.com']" />
+      <node id="['m..presto@enron.com']" label="['m..presto@enron.com']" />
+      <node id="['jeremy.blachman@enron.com']" label="['jeremy.blachman@enron.com']" />
+      <node id="['cnet-news@two.digital.cnet.com']" label="['cnet-news@two.digital.cnet.com']" />
+      <node id="['arnold@enron.com']" label="['arnold@enron.com']" />
+      <node id="['kimberly.shoaf@enron.com']" label="['kimberly.shoaf@enron.com']" />
+      <node id="['pmims@enron.com']" label="['pmims@enron.com']" />
+      <node id="['khyatt@ect.enron.com']" label="['khyatt@ect.enron.com']" />
+      <node id="['jeanne.wukasch@enron.com']" label="['jeanne.wukasch@enron.com']" />
+      <node id="['sherry.anastas@enron.com']" label="['sherry.anastas@enron.com']" />
+      <node id="['charles.yeung@enron.com']" label="['charles.yeung@enron.com']" />
+      <node id="['shelley.corman@enron.com']" label="['shelley.corman@enron.com']" />
+      <node id="['kruscit@enron.com']" label="['kruscit@enron.com']" />
+      <node id="['marketing@nymex.com']" label="['marketing@nymex.com']" />
+      <node id="['dolores.muzzy@enron.com']" label="['dolores.muzzy@enron.com']" />
+      <node id="['dbf@vitol.com']" label="['dbf@vitol.com']" />
+      <node id="['nytdirect@nytimes.com']" label="['nytdirect@nytimes.com']" />
+      <node id="['troy.denetsosie@enron.com']" label="['troy.denetsosie@enron.com']" />
+      <node id="['deanrogers@energyclasses.com']" label="['deanrogers@energyclasses.com']" />
+      <node id="['theresa.staab@enron.com']" label="['theresa.staab@enron.com']" />
+      <node id="['ryan.williams@enron.com']" label="['ryan.williams@enron.com']" />
+      <node id="['database.au@terrmail3.terrapinn.com']" label="['database.au@terrmail3.terrapinn.com']" />
+      <node id="['cighi@hotmail.com']" label="['cighi@hotmail.com']" />
+      <node id="['victor.vega@enron.com']" label="['victor.vega@enron.com']" />
+      <node id="['dutch.quigley@enron.com']" label="['dutch.quigley@enron.com']" />
+      <node id="['chris.lackey@enron.com']" label="['chris.lackey@enron.com']" />
+      <node id="['rpetti@ladwp.com']" label="['rpetti@ladwp.com']" />
+      <node id="['abmcdon@yahoo.com']" label="['abmcdon@yahoo.com']" />
+      <node id="['mholland@rmmlf.org']" label="['mholland@rmmlf.org']" />
+      <node id="['mnavarro@gas.pemex.com']" label="['mnavarro@gas.pemex.com']" />
+      <node id="['jim.schwieger@enron.com']" label="['jim.schwieger@enron.com']" />
+      <node id="['announcements.enron@enron.com']" label="['announcements.enron@enron.com']" />
+      <node id="['scott.neal@enron.com']" label="['scott.neal@enron.com']" />
+      <node id="['ellen.wallumrod@enron.com']" label="['ellen.wallumrod@enron.com']" />
+      <node id="['david.oxley@enron.com']" label="['david.oxley@enron.com']" />
+      <node id="['amy.chandler@enron.com']" label="['amy.chandler@enron.com']" />
+      <node id="['jennifer_lamprecht@oxy.com']" label="['jennifer_lamprecht@oxy.com']" />
+      <node id="['t..lucci@enron.com']" label="['t..lucci@enron.com']" />
+      <node id="['kay.mann@enron.com']" label="['kay.mann@enron.com']" />
+      <node id="['john.gillespie@enron.com']" label="['john.gillespie@enron.com']" />
+      <node id="['andy.zipper@enron.com']" label="['andy.zipper@enron.com']" />
+      <node id="['patricia.lee@enron.com']" label="['patricia.lee@enron.com']" />
+      <node id="['laurel.adams@enron.com']" label="['laurel.adams@enron.com']" />
+      <node id="['sscott5@enron.com']" label="['sscott5@enron.com']" />
+      <node id="['superhotoffers@lists.em5000.com']" label="['superhotoffers@lists.em5000.com']" />
+      <node id="['resources@enron.com']" label="['resources@enron.com']" />
+      <node id="['1.14166227.-1@multexinvestornetwork.com']" label="['1.14166227.-1@multexinvestornetwork.com']" />
+      <node id="['andrew.edison@enron.com']" label="['andrew.edison@enron.com']" />
+      <node id="['toby.kuehl@enron.com']" label="['toby.kuehl@enron.com']" />
+      <node id="['stephanie.panus@enron.com']" label="['stephanie.panus@enron.com']" />
+      <node id="['richard.freed@enron.com']" label="['richard.freed@enron.com']" />
+      <node id="['traci.warner@enron.com']" label="['traci.warner@enron.com']" />
+      <node id="['john.valdes@enron.com']" label="['john.valdes@enron.com']" />
+      <node id="['mwhitt@ect.enron.com']" label="['mwhitt@ect.enron.com']" />
+      <node id="['specialoffers@iexpect.com']" label="['specialoffers@iexpect.com']" />
+      <node id="['etelvina.guerra@enron.com']" label="['etelvina.guerra@enron.com']" />
+      <node id="['tracy.geaccone@enron.com']" label="['tracy.geaccone@enron.com']" />
+      <node id="['flash@icruise.com']" label="['flash@icruise.com']" />
+      <node id="['bobby.eberle@gopusa.com']" label="['bobby.eberle@gopusa.com']" />
+      <node id="['yeomansw@niagaramohawk.com']" label="['yeomansw@niagaramohawk.com']" />
+      <node id="['sap_security@enron.com']" label="['sap_security@enron.com']" />
+      <node id="['newsletters@fansonly.com']" label="['newsletters@fansonly.com']" />
+      <node id="['stephanie.sever@enron.com']" label="['stephanie.sever@enron.com']" />
+      <node id="['emily.sellers@enron.com']" label="['emily.sellers@enron.com']" />
+      <node id="['mike.purcell@enron.com']" label="['mike.purcell@enron.com']" />
+      <node id="['pjohara@netzero.net']" label="['pjohara@netzero.net']" />
+      <node id="['nate.blackburn@enron.com']" label="['nate.blackburn@enron.com']" />
+      <node id="['webmaster@cera.com']" label="['webmaster@cera.com']" />
+      <node id="['a..allen@enron.com']" label="['a..allen@enron.com']" />
+      <node id="['customerservice@industrialinfo.com']" label="['customerservice@industrialinfo.com']" />
+      <node id="['michelle.cash@enron.com']" label="['michelle.cash@enron.com']" />
+      <node id="['martin.cuilla@enron.com']" label="['martin.cuilla@enron.com']" />
+      <node id="['isas@wscc.com']" label="['isas@wscc.com']" />
+      <node id="['robert.badeer@enron.com']" label="['robert.badeer@enron.com']" />
+      <node id="['krobb@hunton.com']" label="['krobb@hunton.com']" />
+      <node id="['msingh@library.berkeley.edu']" label="['msingh@library.berkeley.edu']" />
+      <node id="['shanna.husser@enron.com']" label="['shanna.husser@enron.com']" />
+      <node id="['gmpcmiller@earthlink.net']" label="['gmpcmiller@earthlink.net']" />
+      <node id="['matt.motley@enron.com']" label="['matt.motley@enron.com']" />
+      <node id="['mediatrec@emailfactory.net']" label="['mediatrec@emailfactory.net']" />
+      <node id="['zachary.mccarroll@enron.com']" label="['zachary.mccarroll@enron.com']" />
+      <node id="['prokop.brian@enron.com']" label="['prokop.brian@enron.com']" />
+      <node id="['frank.ermis@enron.com']" label="['frank.ermis@enron.com']" />
+      <node id="['chris.gaskill@enron.com']" label="['chris.gaskill@enron.com']" />
+      <node id="['shendri@ect.enron.com']" label="['shendri@ect.enron.com']" />
+      <node id="['carlew@flash.net']" label="['carlew@flash.net']" />
+      <node id="['bill.abler@enron.com']" label="['bill.abler@enron.com']" />
+      <node id="['allen.joe@enron.com']" label="['allen.joe@enron.com']" />
+      <node id="['joe.stepenovitch@enron.com']" label="['joe.stepenovitch@enron.com']" />
+      <node id="['heather.dunton@enron.com']" label="['heather.dunton@enron.com']" />
+      <node id="['j..bump@enron.com']" label="['j..bump@enron.com']" />
+      <node id="['vkamins@enron.com']" label="['vkamins@enron.com']" />
+      <node id="['rod.hayslett@enron.com']" label="['rod.hayslett@enron.com']" />
+      <node id="['don.black@enron.com']" label="['don.black@enron.com']" />
+      <node id="['jennifer.mcquade@enron.com']" label="['jennifer.mcquade@enron.com']" />
+      <node id="['dl-ga-all_enron_houston_employees@enron.com']" label="['dl-ga-all_enron_houston_employees@enron.com']" />
+      <node id="['enerfaxdaily@enerfax.com']" label="['enerfaxdaily@enerfax.com']" />
+      <node id="['nell.browning@enron.com']" label="['nell.browning@enron.com']" />
+      <node id="['houston.report@enron.com']" label="['houston.report@enron.com']" />
+      <node id="['dorsey@enron.com']" label="['dorsey@enron.com']" />
+      <node id="['enron.global.services.-.worldwide@enron.com']" label="['enron.global.services.-.worldwide@enron.com']" />
+      <node id="['william.abler@enron.com']" label="['william.abler@enron.com']" />
+      <node id="['fsturm@enron.com']" label="['fsturm@enron.com']" />
+      <node id="['mhaedic@ect.enron.com']" label="['mhaedic@ect.enron.com']" />
+      <node id="['hous@listeneremail.net']" label="['hous@listeneremail.net']" />
+      <node id="['cindy.olson@enron.com']" label="['cindy.olson@enron.com']" />
+      <node id="['elizabeth.brown@enron.com']" label="['elizabeth.brown@enron.com']" />
+      <node id="['tim.belden@enron.com']" label="['tim.belden@enron.com']" />
+      <node id="['skean@enron.com']" label="['skean@enron.com']" />
+      <node id="['neil.davies@enron.com']" label="['neil.davies@enron.com']" />
+      <node id="['chris.abel@enron.com']" label="['chris.abel@enron.com']" />
+      <node id="['dan.masters@enron.com']" label="['dan.masters@enron.com']" />
+      <node id="['marketopshourahead@caiso.com']" label="['marketopshourahead@caiso.com']" />
+      <node id="['serena.bishop@enron.com']" label="['serena.bishop@enron.com']" />
+      <node id="['jonathan.mckay@enron.com']" label="['jonathan.mckay@enron.com']" />
+      <node id="['461052.61860093.2@1.americanexpress.com']" label="['461052.61860093.2@1.americanexpress.com']" />
+      <node id="['mechelle.stevens@enron.com']" label="['mechelle.stevens@enron.com']" />
+      <node id="['s..shively@enron.com']" label="['s..shively@enron.com']" />
+      <node id="['kevin.ruscitti@enron.com']" label="['kevin.ruscitti@enron.com']" />
+      <node id="['jason.williams@enron.com']" label="['jason.williams@enron.com']" />
+      <node id="['w..delainey@enron.com']" label="['w..delainey@enron.com']" />
+      <node id="['lynne.ruffer@enron.com']" label="['lynne.ruffer@enron.com']" />
+      <node id="['m..smith@enron.com']" label="['m..smith@enron.com']" />
+      <node id="['eserver@enron.com']" label="['eserver@enron.com']" />
+    </nodes>
+    <edges>
+      <edge id="0" source="['jason.wolfe@enron.com']" target="['vze28szx@verizon.net']" weight="1" />
+      <edge id="1" source="['tmartin@enron.com']" target="['enerfaxdaily@enerfax.com']" weight="3" />
+      <edge id="2" source="['tmartin@enron.com']" target="['newsletter@rigzone.com']" weight="1" />
+      <edge id="3" source="['brapp@enron.com']" target="['nytdirect@nytimes.com']" weight="1" />
+      <edge id="4" source="['fran.fagan@enron.com']" target="['kimberly.watson@enron.com']" weight="1" />
+      <edge id="5" source="['info@rmmlf.org']" target="['mholland@rmmlf.org']" weight="1" />
+      <edge id="6" source="['lisa.fawcett@enron.com']" target="['kimberly.watson@enron.com']" weight="1" />
+      <edge id="7" source="['info@1800contacts.com']" target="['lcampbel@enron.com']" weight="1" />
+      <edge id="8" source="['monique.sanchez@enron.com']" target="['joseph.f.reid@accenture.com']" weight="1" />
+      <edge id="9" source="['deals@bestfares.com']" target="['pkeavey@ect.enron.com']" weight="1" />
+      <edge id="10" source="['mark.whitt@enron.com']" target="['barry.tycholiz@enron.com']" weight="1" />
+      <edge id="11" source="['shankman@enron.com']" target="['jeff.skilling@enron.com']" weight="1" />
+      <edge id="12" source="['chuck.ames@enron.com']" target="['james.hungerford@enron.com']" weight="1" />
+      <edge id="13" source="['enl-members-html@estutenws11.energy.williams.com']" target="['ecenter@williams.com']" weight="1" />
+      <edge id="14" source="['bob.shults@enron.com']" target="['d..hare@enron.com']" weight="1" />
+      <edge id="15" source="['bob.shults@enron.com']" target="['originators.dl-netco@enron.com']" weight="1" />
+      <edge id="16" source="['rika.imai@enron.com']" target="['don.baughman@enron.com']" weight="1" />
+      <edge id="17" source="['justin.arcadipane@cendantmobility.com']" target="['robert.badeer@enron.com']" weight="1" />
+      <edge id="18" source="['weekly_research@frstrelay001.forrester.com']" target="['forrester@forrester.com']" weight="1" />
+      <edge id="19" source="['lisa@casa-de-clarke.com']" target="['kay.mann@enron.com']" weight="1" />
+      <edge id="20" source="['craig.breslau@enron.com']" target="['mnavarro@gas.pemex.com']" weight="1" />
+      <edge id="21" source="['bagray@calpx.com']" target="['pxnotes@calpx.com']" weight="1" />
+      <edge id="22" source="['market_relations@nyiso.com']" target="['krobb@hunton.com']" weight="1" />
+      <edge id="23" source="['l..kelly@enron.com']" target="['troy.denetsosie@enron.com']" weight="1" />
+      <edge id="24" source="['w..white@enron.com']" target="['abmcdon@yahoo.com']" weight="1" />
+      <edge id="25" source="['adrianne.engler@enron.com']" target="['k..allen@enron.com']" weight="1" />
+      <edge id="26" source="['cshaw@siebel.com']" target="['michelle.cash@enron.com']" weight="1" />
+      <edge id="27" source="['steve.wang@enron.com']" target="['tom.hahn@apbenergy.com']" weight="1" />
+      <edge id="28" source="['ryan.slinger@enron.com']" target="['debra.davidson@enron.com']" weight="1" />
+      <edge id="29" source="['ryan.slinger@enron.com']" target="['stephanie.sever@enron.com']" weight="1" />
+      <edge id="30" source="['chris.dorland@enron.com']" target="['1.14166227.-1@multexinvestornetwork.com']" weight="1" />
+      <edge id="31" source="['chris.dorland@enron.com']" target="['artistinsider@info.artistdirect.com']" weight="1" />
+      <edge id="32" source="['h..lewis@enron.com']" target="['realbigwinners@media.sarc-media.com']" weight="1" />
+      <edge id="33" source="['h..lewis@enron.com']" target="['superhotoffers@lists.em5000.com']" weight="1" />
+      <edge id="34" source="['jhawker@petersco.com']" target="['prokop.brian@enron.com']" weight="1" />
+      <edge id="35" source="['fraisy.george@enron.com']" target="['william.abler@enron.com']" weight="1" />
+      <edge id="36" source="['mary.fischer@enron.com']" target="['chad.gardner@enron.com']" weight="1" />
+      <edge id="37" source="['travel@support.expedia.com']" target="['matthew.lenhart@enron.com']" weight="1" />
+      <edge id="38" source="['greg.martin@enron.com']" target="['martin.cuilla@enron.com']" weight="1" />
+      <edge id="39" source="['k..allen@enron.com']" target="['james.bruce@enron.com']" weight="1" />
+      <edge id="40" source="['k..allen@enron.com']" target="['heather.dunton@enron.com']" weight="1" />
+      <edge id="41" source="['kholst@ect.enron.com']" target="['continental_airlines_inc@coair.rsc01.com']" weight="2" />
+      <edge id="42" source="['contact@v-workshops.com']" target="['d..thomas@enron.com']" weight="1" />
+      <edge id="43" source="['danny.foster@enron.com']" target="['janell.avery@enron.com']" weight="1" />
+      <edge id="44" source="['avorato@enron.com']" target="['showtimes@amazon.com']" weight="1" />
+      <edge id="45" source="['f..herod@enron.com']" target="['richard.freed@enron.com']" weight="2" />
+      <edge id="46" source="['f..herod@enron.com']" target="['a.k..matheson@enron.com']" weight="2" />
+      <edge id="47" source="['hai.chen@enron.com']" target="['harry.arora@enron.com']" weight="1" />
+      <edge id="48" source="['caroline.abramo@enron.com']" target="['neil.davies@enron.com']" weight="2" />
+      <edge id="49" source="['caroline.abramo@enron.com']" target="['david.oxley@enron.com']" weight="13" />
+      <edge id="50" source="['bradley.holmes@enron.com']" target="['toby.kuehl@enron.com']" weight="1" />
+      <edge id="51" source="['john.lavorato@enron.com']" target="['liz.taylor@enron.com']" weight="18" />
+      <edge id="52" source="['david.delainey@enron.com']" target="['enron_update@concureworkplace.com']" weight="7" />
+      <edge id="53" source="['david.delainey@enron.com']" target="['richard.shapiro@enron.com']" weight="1" />
+      <edge id="54" source="['david.delainey@enron.com']" target="['janette.elbertson@enron.com']" weight="1" />
+      <edge id="55" source="['d..winfree@enron.com']" target="['mechelle.stevens@enron.com']" weight="1" />
+      <edge id="56" source="['karima.husain@enron.com']" target="['kirti.patel@enron.com']" weight="1" />
+      <edge id="57" source="['mark.schrab@enron.com']" target="['charlene.merrill@dvn.com']" weight="1" />
+      <edge id="58" source="['enron_update@concureworkplace.com']" target="['theresa.staab@enron.com']" weight="7" />
+      <edge id="59" source="['enron_update@concureworkplace.com']" target="['skean@enron.com']" weight="7" />
+      <edge id="60" source="['enron_update@concureworkplace.com']" target="['juan.hernandez@enron.com']" weight="7" />
+      <edge id="61" source="['enron_update@concureworkplace.com']" target="['shelley.corman@enron.com']" weight="7" />
+      <edge id="62" source="['david.baumbach@enron.com']" target="['jim.schwieger@enron.com']" weight="1" />
+      <edge id="63" source="['tori.kuykendall@enron.com']" target="['zachary.mccarroll@enron.com']" weight="1" />
+      <edge id="64" source="['lindy.donoho@enron.com']" target="['r-8-724539-3371579-2-1232-us2-79556634@xmr3.com']" weight="1" />
+      <edge id="65" source="['nyiso_tech_exchange@global2000.net']" target="['yeomansw@niagaramohawk.com']" weight="1" />
+      <edge id="66" source="['waterbugz6@aol.com']" target="['busterann@aol.com']" weight="1" />
+      <edge id="67" source="['anthony.carroll@americas.bnpparibas.com']" target="['anthony.carroll@americas.bnpparibas.com']" weight="1" />
+      <edge id="68" source="['sara.shackleton@enron.com']" target="['carlew@flash.net']" weight="1" />
+      <edge id="69" source="['management.ubsw@enron.com']" target="['robert.badeer@enron.com']" weight="1" />
+      <edge id="70" source="['eric.bass@enron.com']" target="['deanrogers@energyclasses.com']" weight="1" />
+      <edge id="71" source="['yan.wang@enron.com']" target="['nate.blackburn@enron.com']" weight="1" />
+      <edge id="72" source="['general.announcement@enron.com']" target="['enron.global.services.-.worldwide@enron.com']" weight="1" />
+      <edge id="73" source="['jerrybowyer@home.com']" target="['d..steffes@enron.com']" weight="1" />
+      <edge id="74" source="['rick.sierra@enron.com']" target="['etelvina.guerra@enron.com']" weight="1" />
+      <edge id="75" source="['morris.brassfield@enron.com']" target="['phil.lowry@enron.com']" weight="1" />
+      <edge id="76" source="['faretrckr@customermail.expedia.com']" target="['matt.motley@enron.com']" weight="1" />
+      <edge id="77" source="['jim.fallon@enron.com']" target="['dan.leff@enron.com']" weight="2" />
+      <edge id="78" source="['continental_airlines_inc@coair.rsc01.com']" target="['joe.stepenovitch@enron.com']" weight="2" />
+      <edge id="79" source="['paul.baratelli@nerc.net']" target="['isas@wscc.com']" weight="1" />
+      <edge id="80" source="['w..pereira@enron.com']" target="['jeanne.wukasch@enron.com']" weight="1" />
+      <edge id="81" source="['chrisrtowest@earthlink.net']" target="['rrga-l@list.rtowest.org']" weight="1" />
+      <edge id="82" source="['inbox@messaging.accuweather.com']" target="['shendri@ect.enron.com']" weight="1" />
+      <edge id="83" source="['mark.haedicke@enron.com']" target="['s..bradford@enron.com']" weight="1" />
+      <edge id="84" source="['debra.perlingiere@enron.com']" target="['gouinmd@nu.com']" weight="1" />
+      <edge id="85" source="['n12377@extra.hu']" target="['amtxj@126.com']" weight="1" />
+      <edge id="86" source="['lkitchen@enron.com']" target="['hous@listeneremail.net']" weight="1" />
+      <edge id="87" source="['matthew.lenhart@enron.com']" target="['travel@expedia.com']" weight="1" />
+      <edge id="88" source="['matthew.lenhart@enron.com']" target="['l..gay@enron.com']" weight="1" />
+      <edge id="89" source="['r..price@enron.com']" target="['robin.barbe@enron.com']" weight="1" />
+      <edge id="90" source="['cheryl.johnson@enron.com']" target="['laurel.adams@enron.com']" weight="3" />
+      <edge id="91" source="['cheryl.johnson@enron.com']" target="['chris.abel@enron.com']" weight="3" />
+      <edge id="92" source="['kpresto@enron.com']" target="['461052.61860093.2@1.americanexpress.com']" weight="1" />
+      <edge id="93" source="['kpresto@enron.com']" target="['newsletters@fansonly.com']" weight="1" />
+      <edge id="94" source="['arsystem@mailman.enron.com']" target="['m..love@enron.com']" weight="2" />
+      <edge id="95" source="['arsystem@mailman.enron.com']" target="['elizabeth.sager@enron.com']" weight="2" />
+      <edge id="96" source="['liz.taylor@enron.com']" target="['chris.lackey@enron.com']" weight="18" />
+      <edge id="97" source="['jarnold@enron.com']" target="['dudley.poston@williams.com']" weight="1" />
+      <edge id="98" source="['tie_list_server@nyiso.com']" target="['rbowers@nyiso.com']" weight="1" />
+      <edge id="99" source="['darren.adamik@enron.com']" target="['neil.davies@enron.com']" weight="2" />
+      <edge id="100" source="['darren.adamik@enron.com']" target="['david.oxley@enron.com']" weight="13" />
+      <edge id="101" source="['a..shankman@enron.com']" target="['clayton.seigle@enron.com']" weight="2" />
+      <edge id="102" source="['karen.buckley@enron.com']" target="['jonathan.mckay@enron.com']" weight="1" />
+      <edge id="103" source="['l..gay@enron.com']" target="['pooky@pipeline.com']" weight="1" />
+      <edge id="104" source="['meetings@nyiso.com']" target="['mdy@slater-consulting.com']" weight="1" />
+      <edge id="105" source="['robyn.zivic@enron.com']" target="['kevin.ruscitti@enron.com']" weight="1" />
+      <edge id="106" source="['srbateson@duke-energy.com']" target="['rpetti@ladwp.com']" weight="1" />
+      <edge id="107" source="['issuealerthtml@listserv.scientech.com']" target="['issuealert@scientech.com']" weight="1" />
+      <edge id="108" source="['clients@cera.com']" target="['webmaster@cera.com']" weight="1" />
+      <edge id="109" source="['noreply@ccomad3.uu.commissioner.com']" target="['frank.ermis@enron.com']" weight="1" />
+      <edge id="110" source="['scott.aleka@enron.com']" target="['maolczak@bpa.gov']" weight="1" />
+      <edge id="111" source="['sheila.jarnot@enron.com']" target="['forney@enron.com']" weight="1" />
+      <edge id="112" source="['b..sanders@enron.com']" target="['c..koehler@enron.com']" weight="1" />
+      <edge id="113" source="['b..sanders@enron.com']" target="['andrew.edison@enron.com']" weight="2" />
+      <edge id="114" source="['jeffrey.mcmahon@enron.com']" target="['w..delainey@enron.com']" weight="1" />
+      <edge id="115" source="['outlook.team@enron.com']" target="['allen.joe@enron.com']" weight="2" />
+      <edge id="116" source="['outlook.team@enron.com']" target="['andrew.lewis@enron.com']" weight="2" />
+      <edge id="117" source="['al@friedwire.com']" target="['ryan.williams@enron.com']" weight="1" />
+      <edge id="118" source="['ron.matthews@enron.com']" target="['kevin.hyatt@enron.com']" weight="1" />
+      <edge id="119" source="['sneal4@houston.rr.com']" target="['scott.neal@enron.com']" weight="1" />
+      <edge id="120" source="['holden.salisbury@enron.com']" target="['jennifer.mcquade@enron.com']" weight="4" />
+      <edge id="121" source="['perfmgmt@enron.com']" target="['arnold@enron.com']" weight="1" />
+      <edge id="122" source="['thane.twiggs@enron.com']" target="['doug.gilbert-smith@enron.com']" weight="1" />
+      <edge id="123" source="['jean.mcfarland@enron.com']" target="['steven.harris@enron.com']" weight="1" />
+      <edge id="124" source="['mwhitt@enron.com']" target="['enerfaxdaily@enerfax.com']" weight="3" />
+      <edge id="125" source="['stanley.horton@enron.com']" target="['w..mcgowan@enron.com']" weight="1" />
+      <edge id="126" source="['stanley.horton@enron.com']" target="['eserver@enron.com']" weight="1" />
+      <edge id="127" source="['alhamd.alkhayat@enron.com']" target="['danny.mccarty@enron.com']" weight="1" />
+      <edge id="128" source="['applicationservice@bdcimail.com']" target="['vkamins@enron.com']" weight="1" />
+      <edge id="129" source="['steven.harris@enron.com']" target="['kimberly.watson@enron.com']" weight="1" />
+      <edge id="130" source="['dean.drozdiak@enron.com']" target="['philip.polsky@enron.com']" weight="1" />
+      <edge id="131" source="['john.postlethwaite@enron.com']" target="['mike.swerzbin@enron.com']" weight="1" />
+      <edge id="132" source="['fermis@ect.enron.com']" target="['contact@dew-consulting.com']" weight="1" />
+      <edge id="133" source="['tracey.tripp@enron.com']" target="['jennifer_lamprecht@oxy.com']" weight="1" />
+      <edge id="134" source="['s.day.-return-11-5-11775115-c0mgrdylu6uc1jlt-322@mta11.optamail.com']" target="['pmims@enron.com']" weight="1" />
+      <edge id="135" source="['info@pmaconference.com']" target="['fsturm@enron.com']" weight="1" />
+      <edge id="136" source="['susan.amador@enron.com']" target="['f..calger@enron.com']" weight="4" />
+      <edge id="137" source="['jschwie@enron.com']" target="['fcalvillo@cmgn.com.mx']" weight="1" />
+      <edge id="138" source="['mark.confer@enron.com']" target="['jennifer.thome@enron.com']" weight="2" />
+      <edge id="139" source="['esaibi@enron.com']" target="['customerservice@industrialinfo.com']" weight="2" />
+      <edge id="140" source="['robert.guthrie@enron.com']" target="['kevin.hyatt@enron.com']" weight="1" />
+      <edge id="141" source="['d..wilson@enron.com']" target="['andrew.edison@enron.com']" weight="2" />
+      <edge id="142" source="['postmaster@your.smtp.com']" target="['flash@icruise.com']" weight="1" />
+      <edge id="143" source="['mjmiller23@hotmail.com']" target="['gmpcmiller@earthlink.net']" weight="1" />
+      <edge id="144" source="['f..calger@enron.com']" target="['louise.kitchen@enron.com']" weight="4" />
+      <edge id="145" source="['donna_j_mullen@dom.com']" target="['carlew@flash.net']" weight="1" />
+      <edge id="146" source="['d..thomas@enron.com']" target="['customerservice@industrialinfo.com']" weight="2" />
+      <edge id="147" source="['carol.st.@enron.com']" target="['stephanie.panus@enron.com']" weight="1" />
+      <edge id="148" source="['carol.st.@enron.com']" target="['nell.browning@enron.com']" weight="1" />
+      <edge id="149" source="['word@m-w.com']" target="['mw-wod@listserv.webster.m-w.com']" weight="1" />
+      <edge id="150" source="['pete.davis@enron.com']" target="['pete.davis@enron.com']" weight="6" />
+      <edge id="151" source="['casey.evans@enron.com']" target="['cecilia.cheung@enron.com']" weight="1" />
+      <edge id="152" source="['vmartinez@winstead.com']" target="['kenneth.lay@enron.com']" weight="1" />
+      <edge id="153" source="['eveningmba@haas.berkeley.edu']" target="['msingh@library.berkeley.edu']" weight="2" />
+      <edge id="154" source="['fm@monthlydrawing.roi1.net']" target="['dutch.quigley@enron.com']" weight="1" />
+      <edge id="155" source="['lynn.blair@enron.com']" target="['lynn.blair@enron.com']" weight="1" />
+      <edge id="156" source="['enron.announcement@enron.com']" target="['houston.report@enron.com']" weight="1" />
+      <edge id="157" source="['mktstathourahead@caiso.com']" target="['marketopshourahead@caiso.com']" weight="1" />
+      <edge id="158" source="['reply@savvion.info']" target="['andy.zipper@enron.com']" weight="1" />
+      <edge id="159" source="['kalen.pieper@enron.com']" target="['w..delainey@enron.com']" weight="1" />
+      <edge id="160" source="['valerie.vela@enron.com']" target="['theresa.staab@enron.com']" weight="1" />
+      <edge id="161" source="['lisa.gang@enron.com']" target="['jennifer.thome@enron.com']" weight="2" />
+      <edge id="162" source="['emca@yahoogroups.com']" target="['emca@yahoogroups.com']" weight="1" />
+      <edge id="163" source="['dana.davis@enron.com']" target="['patrick.leahy@enron.com']" weight="1" />
+      <edge id="164" source="['marie.heard@enron.com']" target="['katryna.murtagh@morganstanley.com']" weight="1" />
+      <edge id="165" source="['cecilia.cheung@enron.com']" target="['john.valdes@enron.com']" weight="1" />
+      <edge id="166" source="['christina_122367@hotmail.com']" target="['t..lucci@enron.com']" weight="1" />
+      <edge id="167" source="['stacey.richardson@enron.com']" target="['ellen.wallumrod@enron.com']" weight="1" />
+      <edge id="168" source="['monika.causholli@enron.com']" target="['sap_security@enron.com']" weight="1" />
+      <edge id="169" source="['m..presto@enron.com']" target="['charles.yeung@enron.com']" weight="1" />
+      <edge id="170" source="['jeremy.blachman@enron.com']" target="['dorsey@enron.com']" weight="2" />
+      <edge id="171" source="['cnet-news@two.digital.cnet.com']" target="['shendri@ect.enron.com']" weight="1" />
+      <edge id="172" source="['kimberly.shoaf@enron.com']" target="['cindy.olson@enron.com']" weight="1" />
+      <edge id="173" source="['pmims@enron.com']" target="['specialoffers@iexpect.com']" weight="1" />
+      <edge id="174" source="['khyatt@ect.enron.com']" target="['pjohara@netzero.net']" weight="1" />
+      <edge id="175" source="['sherry.anastas@enron.com']" target="['m..smith@enron.com']" weight="1" />
+      <edge id="176" source="['shelley.corman@enron.com']" target="['elizabeth.brown@enron.com']" weight="1" />
+      <edge id="177" source="['kruscit@enron.com']" target="['resources@enron.com']" weight="1" />
+      <edge id="178" source="['marketing@nymex.com']" target="['marketing@nymex.com']" weight="1" />
+      <edge id="179" source="['dolores.muzzy@enron.com']" target="['traci.warner@enron.com']" weight="1" />
+      <edge id="180" source="['dbf@vitol.com']" target="['stephanie.panus@enron.com']" weight="1" />
+      <edge id="181" source="['database.au@terrmail3.terrapinn.com']" target="['mhaedic@ect.enron.com']" weight="1" />
+      <edge id="182" source="['cighi@hotmail.com']" target="['jason.williams@enron.com']" weight="1" />
+      <edge id="183" source="['victor.vega@enron.com']" target="['dan.masters@enron.com']" weight="1" />
+      <edge id="184" source="['dutch.quigley@enron.com']" target="['mediatrec@emailfactory.net']" weight="1" />
+      <edge id="185" source="['announcements.enron@enron.com']" target="['dl-ga-all_enron_houston_employees@enron.com']" weight="1" />
+      <edge id="186" source="['david.oxley@enron.com']" target="['a..allen@enron.com']" weight="13" />
+      <edge id="187" source="['david.oxley@enron.com']" target="['don.black@enron.com']" weight="13" />
+      <edge id="188" source="['david.oxley@enron.com']" target="['bill.abler@enron.com']" weight="13" />
+      <edge id="189" source="['amy.chandler@enron.com']" target="['sscott5@enron.com']" weight="1" />
+      <edge id="190" source="['t..lucci@enron.com']" target="['j..bump@enron.com']" weight="1" />
+      <edge id="191" source="['john.gillespie@enron.com']" target="['rod.hayslett@enron.com']" weight="1" />
+      <edge id="192" source="['patricia.lee@enron.com']" target="['shanna.husser@enron.com']" weight="1" />
+      <edge id="193" source="['mwhitt@ect.enron.com']" target="['enerfaxdaily@enerfax.com']" weight="3" />
+      <edge id="194" source="['tracy.geaccone@enron.com']" target="['emily.sellers@enron.com']" weight="1" />
+      <edge id="195" source="['tracy.geaccone@enron.com']" target="['rod.hayslett@enron.com']" weight="1" />
+      <edge id="196" source="['bobby.eberle@gopusa.com']" target="['bobby.eberle@gopusa.com']" weight="1" />
+      <edge id="197" source="['mike.purcell@enron.com']" target="['serena.bishop@enron.com']" weight="1" />
+      <edge id="198" source="['chris.gaskill@enron.com']" target="['s..shively@enron.com']" weight="1" />
+      <edge id="199" source="['bill.abler@enron.com']" target="['jennifer.mcquade@enron.com']" weight="4" />
+      <edge id="200" source="['tim.belden@enron.com']" target="['lynne.ruffer@enron.com']" weight="1" />
+    </edges>
+  </graph>
+</gexf>
